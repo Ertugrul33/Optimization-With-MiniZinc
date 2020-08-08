@@ -1,0 +1,10 @@
+n = 5;
+uzakliklar= [|0,6,4,5,8
+            |6,0,4,7,6
+            |4,4,0,3,4
+            |5,7,3,0,5
+            |8,6,4,5,0|];
+            
+%
+% 5 city tsp, on a chess board, rook's move
+%
